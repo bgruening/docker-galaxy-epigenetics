@@ -72,7 +72,7 @@ tools:
   owner: bgruening
   tool_panel_section_label: Epigenetics
 
-- name: hicexplorer_hicpca revision
+- name: hicexplorer_hicpca
   owner: bgruening
   tool_panel_section_label: Epigenetics
 
