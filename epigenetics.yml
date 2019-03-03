@@ -60,10 +60,6 @@ tools:
   owner: bgruening
   tool_panel_section_label: "Calling"
 
-- name: suite_hicup
-  owner: bgruening
-  tool_panel_section_label: "Epigenetics"
-
 - name: methylkit
   owner: rnateam
   tool_panel_section_label: "Epigenetics"
